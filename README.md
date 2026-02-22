@@ -1,6 +1,6 @@
 # Mustafa Berke Çeliker
 
-**Computer Engineering** student · Istanbul · Focus on software development, AI/ML and data science
+**Computer / Software Engineer** student · Izmir · Focus on software development, AI/ML and data science
 
 I build applications in **C#**, **C++**, **Python** and **Kotlin**, and work with **Flutter** for mobile. I'm interested in machine learning, data science and clean, maintainable code.
 
