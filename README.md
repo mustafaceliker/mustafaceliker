@@ -1,28 +1,34 @@
 # Mustafa Berke Çeliker
 
-Computer Engineering student with a focus on software development and AI/ML. I work with C#, C++, and Python to build applications and explore data science and deep learning.
+**Computer Engineering** student · Istanbul · Focus on software development, AI/ML and data science
 
-## Tech stack
-
-**Languages:** C#, C++, Python, Java, Kotlin  
-**Mobile & UI:** Flutter  
-**Data & backend:** MySQL, Firebase  
-**Cloud & tools:** Google Cloud, Cloudflare  
-**Other:** HTML, Arduino
-
-## What I'm working on
-
-- University projects and coursework  
-- Personal projects in AI, machine learning, and data science  
-- Mobile apps with Flutter  
-- Algorithm design and optimization
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-berke-çeliker)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mustafa.celikerr)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/oraclee13)
+I build applications in **C#**, **C++**, **Python** and **Kotlin**, and work with **Flutter** for mobile. I'm interested in machine learning, data science and clean, maintainable code.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaceliker&theme=default&hide_border=true&count_private=false&show_icons=true)
+### Tech
+
+`C#` `C++` `Python` `Java` `Kotlin` `Flutter` `MySQL` `Firebase` `Google Cloud` `HTML` `Arduino`
+
+---
+
+### Featured projects
+
+| Project | Description |
+|--------|-------------|
+| [EvolutionHUB](https://github.com/mustafaceliker/EvolutionHUB-project) | Android habit tracker and goal manager (Kotlin) |
+| [FoodDeliveryAutomation](https://github.com/mustafaceliker/FoodDeliveryAutomation) | Food delivery–style system with admin and user roles (C#) |
+| [EvHarmoni PMP](https://github.com/mustafaceliker/EvHarmoni-AkilliEvSistemleri-PMP) | Smart home project management plan (scope, schedule, risk) |
+| [LimanMYS 2.0](https://github.com/mustafaceliker/LimanMYS2.0) | Shell automation for Liman MYS install, remove and reset |
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-berke-çeliker)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mustafa.celikerr)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oraclee13)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=mustafaceliker&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" width="400"/>
