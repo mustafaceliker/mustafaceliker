@@ -6,6 +6,12 @@ I build applications in **C#**, **C++**, **Python** and **Kotlin**, and work wit
 
 ---
 
+### Profile dashboard
+
+Bu repoda görseldeki gibi karanlık temalı bir [profil sayfası](index.html) var. Tarayıcıda `index.html` dosyasını açarak istatistikler, katkı takvimi, kodlama alışkanlıkları ve teknoloji ikonlarıyla birlikte görüntüleyebilirsiniz.
+
+---
+
 ### Tech
 
 `C#` `C++` `Python` `Java` `Kotlin` `Flutter` `MySQL` `Firebase` `Google Cloud` `HTML` `Arduino`

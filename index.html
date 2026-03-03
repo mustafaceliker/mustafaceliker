@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mustafa Berke Çeliker · Developer Profile</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="profile">
+    <header class="profile-header">
+      <div class="avatar-wrap">
+        <img src="https://github.com/mustafaceliker.png" alt="Mustafa Berke Çeliker" class="avatar" />
+      </div>
+      <div class="header-info">
+        <h1>Mustafa Berke Çeliker</h1>
+        <p class="tagline">Computer Engineering · Istanbul · Software, AI/ML & Data Science</p>
+      </div>
+    </header>
+
+    <main class="dashboard">
+      <!-- Sol üst: Kullanıcı özeti -->
+      <section class="card user-summary">
+        <h2 class="card-title">Profil Özeti</h2>
+        <ul class="stat-list">
+          <li>GitHub'a <strong>4 yıl</strong> önce katıldı</li>
+          <li><strong>31</strong> kullanıcı takip ediyor</li>
+          <li><a href="https://github.com/mustafaceliker?tab=repositories">19 Repo</a></li>
+          <li>MIT lisansını tercih ediyor</li>
+          <li><strong>32</strong> Release</li>
+          <li><strong>1</strong> Paket</li>
+          <li>~1.82 GB kullanım</li>
+          <li><span class="green">1.52m eklenen</span>, <span class="muted">379k silinen</span> satır</li>
+        </ul>
+      </section>
+
+      <!-- Orta üst: GitHub istatistikleri -->
+      <section class="card github-stats">
+        <h2 class="card-title">GitHub İstatistikleri</h2>
+        <ul class="stat-list">
+          <li><strong>5</strong> repoya katkı</li>
+          <li><strong>0</strong> Sponsor</li>
+          <li><strong>147</strong> Yıldız</li>
+          <li><strong>16</strong> Fork</li>
+          <li><strong>23</strong> İzleyen</li>
+        </ul>
+      </section>
+
+      <!-- Sağ üst: Site & performans -->
+      <section class="card performance">
+        <h2 class="card-title">Site & Performans</h2>
+        <a href="https://github.com/mustafaceliker" class="site-link">github.com/mustafaceliker</a>
+        <div class="lighthouse-scores">
+          <div class="score-circle" data-score="97"><span>97</span><small>Performans</small></div>
+          <div class="score-circle" data-score="100"><span>100</span><small>Erişilebilirlik</small></div>
+          <div class="score-circle" data-score="100"><span>100</span><small>En İyi Uygulama</small></div>
+          <div class="score-circle" data-score="100"><span>100</span><small>SEO</small></div>
+        </div>
+      </section>
+
+      <!-- Katkı takvimi (3D benzeri) -->
+      <section class="card contributions-card">
+        <h2 class="card-title">Katkı Takvimi</h2>
+        <div class="contributions-3d" id="contributionsGraph"></div>
+        <div class="contribution-meta">
+          <span class="streak">Mevcut seri: <strong>2 gün</strong></span>
+          <span class="avg">~3.82 commit/gün</span>
+        </div>
+      </section>
+
+      <!-- Kodlama alışkanlıkları -->
+      <section class="card coding-habits">
+        <h2 class="card-title">Kodlama Alışkanlıkları</h2>
+        <div class="habit-chart">
+          <p class="chart-label">Commit aktivitesi (saat)</p>
+          <div class="bar-chart hours" id="hoursChart"></div>
+        </div>
+        <div class="habit-chart">
+          <p class="chart-label">Commit aktivitesi (gün)</p>
+          <div class="bar-chart days" id="daysChart"></div>
+        </div>
+        <div class="habit-chart">
+          <p class="chart-label">Dil aktivitesi</p>
+          <div class="language-bars" id="languageActivity"></div>
+        </div>
+      </section>
+
+      <!-- Uzmanlaşılan teknolojiler -->
+      <section class="card technologies">
+        <h2 class="card-title">Uzmanlaşılan Teknolojiler</h2>
+        <div class="tech-icons" id="techIcons"></div>
+      </section>
+
+      <!-- Önerilen parçalar & Diller -->
+      <section class="card music-languages">
+        <h2 class="card-title">Önerilen Parçalar</h2>
+        <div class="tracks" id="suggestedTracks"></div>
+        <h2 class="card-title">En çok kullanılan diller</h2>
+        <div class="language-legend" id="languageLegend"></div>
+      </section>
+
+      <!-- Projeler -->
+      <section class="card projects">
+        <h2 class="card-title">Projeler</h2>
+        <ul class="project-list">
+          <li class="project-item">
+            <span class="project-count">4 Proje</span>
+          </li>
+          <li class="project-item">
+            <a href="https://github.com/mustafaceliker/EvolutionHUB-project">EvolutionHUB</a>
+            <span class="project-meta">Habit tracker & hedef yöneticisi (Kotlin)</span>
+          </li>
+          <li class="project-item">
+            <a href="https://github.com/mustafaceliker/FoodDeliveryAutomation">FoodDeliveryAutomation</a>
+            <span class="project-meta">Yemek sipariş sistemi (C#)</span>
+          </li>
+          <li class="project-item">
+            <a href="https://github.com/mustafaceliker/EvHarmoni-AkilliEvSistemleri-PMP">EvHarmoni PMP</a>
+            <span class="project-meta">Akıllı ev proje yönetimi</span>
+          </li>
+          <li class="project-item">
+            <a href="https://github.com/mustafaceliker/LimanMYS2.0">LimanMYS 2.0</a>
+            <span class="project-meta">Liman MYS kurulum otomasyonu</span>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="profile-footer">
+      <div class="connect">
+        <a href="https://linkedin.com/in/mustafa-berke-çeliker" aria-label="LinkedIn">LinkedIn</a>
+        <a href="https://instagram.com/mustafa.celikerr" aria-label="Instagram">Instagram</a>
+        <a href="https://x.com/oraclee13" aria-label="X">X</a>
+      </div>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
