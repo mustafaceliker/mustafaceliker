@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=200&section=header&text=Mustafa%20Berke%20%C3%87eliker&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Co-Founder%20%26%20Head%20of%20Programming%20%40%20Go%20Gamer%20%C2%B7%20%C4%B0zmir%2C%20TR&descAlignY=56&descFontSize=15&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,4,12,20,24&amp;height=200&amp;section=header&amp;text=Mustafa%20Berke%20%C3%87eliker&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Co-Founder%20%26%20Head%20of%20Programming%20%40%20Go%20Gamer%20%C2%B7%20%C4%B0zmir%2C%20TR&amp;descAlignY=56&amp;descFontSize=15&amp;descColor=cccccc" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile+%7C+Backend+%7C+Product+Engineering;Flutter+%C2%B7+Kotlin+%C2%B7+TypeScript+%C2%B7+Node.js;Clean+Architecture+%C2%B7+Scalable+Systems;Building+real+products+from+%C4%B0zmir+%F0%9F%87%B9%F0%9F%87%B7)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=mustafaceliker&style=flat-square&color=58A6FF&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=mustafaceliker&amp;style=flat-square&amp;color=58A6FF&amp;label=Profile+Views" />
 
 </div>
 
@@ -22,45 +22,45 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaceliker&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github&amp;include_all_commits=true" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=mustafaceliker&amp;theme=github-dark-blue&amp;hide_border=true" height="175" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaceliker&amp;layout=donut&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" height="200" />
+</div>
+
+---
+
 ## Tech Stack
 
 **📱 Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&amp;theme=dark" />
 </p>
 
 **⚙️ Backend & Runtime**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,bun&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,bun&amp;theme=dark" />
 </p>
 
 **🗄️ Database & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,docker,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,docker,gcp&amp;theme=dark" />
 </p>
 
 **🤖 AI / ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&amp;theme=dark" />
 </p>
 
 **🔧 Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,git,github,githubactions,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,git,github,githubactions,vscode,linux&amp;theme=dark" />
 </p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaceliker&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175" />
-  <img src="https://streak-stats.demolab.com/?user=mustafaceliker&theme=github-dark-blue&hide_border=true" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaceliker&layout=donut&theme=github_dark&hide_border=true&langs_count=8" height="200" />
-</div>
 
 ---
 
@@ -110,14 +110,6 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafaceliker&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
 ## Connect
 
 <div align="center">
@@ -133,5 +125,5 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,4,12,20,24&amp;height=100&amp;section=footer" />
 </div>
