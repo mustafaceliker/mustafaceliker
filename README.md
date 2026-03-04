@@ -22,15 +22,22 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 
 ---
 
-## GitHub Stats
+## Featured Projects
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**Kuran Super App**](https://github.com/anilonayy/kuransuperapp) | Quran reader, prayer times, dhikr & qibla compass | Flutter · TypeScript · PostgreSQL |
+| [**EvolutionHUB**](https://github.com/mustafaceliker/EvolutionHUB-project) | Android habit tracker and goal manager | Kotlin · Android |
+| [**FoodDeliveryAutomation**](https://github.com/mustafaceliker/FoodDeliveryAutomation) | Food order system with admin & user roles | C# · .NET |
+| [**EvHarmoni PMP**](https://github.com/mustafaceliker/EvHarmoni-AkilliEvSistemleri-PMP) | Smart home project management plan | Documentation · PMP |
+| [**LimanMYS 2.0**](https://github.com/mustafaceliker/LimanMYS2.0) | Liman MYS installation & reset automation | Shell · Linux |
+
+---
+
+## Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaceliker&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github&amp;include_all_commits=true" height="175" />
-  <img src="https://streak-stats.demolab.com/?user=mustafaceliker&amp;theme=github-dark-blue&amp;hide_border=true" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaceliker&amp;layout=donut&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" height="200" />
+  <img src="https://ghchart.rshah.org/58A6FF/mustafaceliker" alt="GitHub Contribution Chart" width="100%" />
 </div>
 
 ---
@@ -95,18 +102,6 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 | Docker | `█████░░░░░` Familiar |
 
 </div>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Kuran Super App**](https://github.com/anilonayy/kuransuperapp) | Quran reader, prayer times, dhikr & qibla compass | Flutter · TypeScript · PostgreSQL |
-| [**EvolutionHUB**](https://github.com/mustafaceliker/EvolutionHUB-project) | Android habit tracker and goal manager | Kotlin · Android |
-| [**FoodDeliveryAutomation**](https://github.com/mustafaceliker/FoodDeliveryAutomation) | Food order system with admin & user roles | C# · .NET |
-| [**EvHarmoni PMP**](https://github.com/mustafaceliker/EvHarmoni-AkilliEvSistemleri-PMP) | Smart home project management plan | Documentation · PMP |
-| [**LimanMYS 2.0**](https://github.com/mustafaceliker/LimanMYS2.0) | Liman MYS installation & reset automation | Shell · Linux |
 
 ---
 
