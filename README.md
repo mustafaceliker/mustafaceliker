@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,4,12,20,24&amp;height=200&amp;section=header&amp;text=Mustafa%20Berke%20%C3%87eliker&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Co-Founder%20%26%20Head%20of%20Programming%20%40%20Go%20Gamer%20%C2%B7%20%C4%B0zmir%2C%20TR&amp;descAlignY=56&amp;descFontSize=15&amp;descColor=cccccc" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile+%7C+Backend+%7C+Product+Engineering;Flutter+%C2%B7+Kotlin+%C2%B7+TypeScript+%C2%B7+Node.js;Clean+Architecture+%C2%B7+Scalable+Systems;Building+real+products+from+%C4%B0zmir+%F0%9F%87%B9%F0%9F%87%B7)](https://git.io/typing-svg)
 
@@ -114,4 +113,5 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,4,12,20,24&amp;height=100&amp;section=footer" />
 </div>
+
 
