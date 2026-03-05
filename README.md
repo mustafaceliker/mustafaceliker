@@ -34,14 +34,6 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 
 ---
 
-## Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/mustafaceliker" alt="GitHub Contribution Chart" width="100%" />
-</div>
-
----
-
 ## Tech Stack
 
 **📱 Mobile**
@@ -122,3 +114,4 @@ As Co-Founder & Head of Programming at **Go Gamer**, I focus on clean code, test
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,4,12,20,24&amp;height=100&amp;section=footer" />
 </div>
+
