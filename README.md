@@ -64,24 +64,13 @@ Co-Founder & Head of Programming at **[Go Gamer](https://gogamer.com.tr/)** — 
 
 ---
 
-## GitHub Activity
+## GitHub Dashboard
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafaceliker&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafaceliker&theme=github_dark" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafaceliker&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafaceliker&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafaceliker&theme=github_dark" width="32%" />
-
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154502126" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="660" height="auto">
+      <img alt="GitHub Dashboard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="660" height="auto">
+    </picture>
+  </a>
 </div>
