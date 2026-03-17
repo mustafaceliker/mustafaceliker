@@ -21,8 +21,68 @@ Co-Founder & Head of Programming at **[Go Gamer](https://gogamer.com.tr/)** — 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,python,cs,express,fastapi&theme=dark" />&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,redis,docker&theme=dark" />&nbsp;
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,kotlin,electron&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36"/><br><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36"/><br><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="36" height="36"/><br><sub>Python</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cs" width="36" height="36"/><br><sub>C#</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="36" height="36"/><br><sub>Express</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36"/><br><sub>FastAPI</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=bun" width="36" height="36"/><br><sub>Bun</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36"/><br><sub>TensorFlow</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36"/><br><sub>PyTorch</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36"/><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36"/><br><sub>Redis</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36"/><br><sub>MongoDB</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36"/><br><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=gcp" width="36" height="36"/><br><sub>GCP</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="36" height="36"/><br><sub>React</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36"/><br><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36"/><br><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=flutter" width="36" height="36"/><br><sub>Flutter</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kotlin" width="36" height="36"/><br><sub>Kotlin</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=electron" width="36" height="36"/><br><sub>Electron</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36"/><br><sub>Linux</sub></td>
+  </tr>
+</table>
 
 </div>
+
+---
+
+## GitHub Dashboard
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154502126" target="_blank" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="GitHub Dashboard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-contribution-time-distribution?user_id=154502126" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-contribution-time-distribution/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="373" height="auto">
+          <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/compose-user-contribution-time-distribution/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="373" height="auto">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-language-activity?user_id=154502126" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-language-activity/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="373" height="auto">
+          <img alt="Language Activity" src="https://next.ossinsight.io/widgets/official/compose-user-language-activity/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="373" height="auto">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
