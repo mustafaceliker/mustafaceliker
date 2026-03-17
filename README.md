@@ -21,33 +21,42 @@ Co-Founder & Head of Programming at **[Go Gamer](https://gogamer.com.tr/)** — 
 
 <div align="center">
 
+<!-- ─── Core Stack — backed by major organizations ─── -->
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36"/><br><sub>Node.js</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36"/><br><sub>TypeScript</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="36" height="36"/><br><sub>Python</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cs" width="36" height="36"/><br><sub>C#</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="36" height="36"/><br><sub>Express</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36"/><br><sub>FastAPI</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=bun" width="36" height="36"/><br><sub>Bun</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="46" height="46"/><br><b><sub>TypeScript</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="46" height="46"/><br><b><sub>Python</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="46" height="46"/><br><b><sub>Node.js</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="46" height="46"/><br><b><sub>C# · .NET</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="46" height="46"/><br><b><sub>React</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="46" height="46"/><br><b><sub>Next.js</sub></b></td>
   </tr>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36"/><br><sub>TensorFlow</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36"/><br><sub>PyTorch</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36"/><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36"/><br><sub>Redis</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36"/><br><sub>MongoDB</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36"/><br><sub>Docker</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=gcp" width="36" height="36"/><br><sub>GCP</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="46" height="46"/><br><b><sub>Flutter</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kotlin" width="46" height="46"/><br><b><sub>Kotlin</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="46" height="46"/><br><b><sub>TensorFlow</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="46" height="46"/><br><b><sub>PyTorch</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="46" height="46"/><br><b><sub>PostgreSQL</sub></b></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="46" height="46"/><br><b><sub>Docker</sub></b></td>
   </tr>
+</table>
+
+<br>
+
+<!-- ─── Extended Tooling ─── -->
+<sup>also using</sup>
+
+<table>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="36" height="36"/><br><sub>React</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36"/><br><sub>Next.js</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36"/><br><sub>Tailwind</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=flutter" width="36" height="36"/><br><sub>Flutter</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kotlin" width="36" height="36"/><br><sub>Kotlin</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=electron" width="36" height="36"/><br><sub>Electron</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36"/><br><sub>Linux</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=express" width="28" height="28"/><br><sub>Express</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=fastapi" width="28" height="28"/><br><sub>FastAPI</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=bun" width="28" height="28"/><br><sub>Bun</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=redis" width="28" height="28"/><br><sub>Redis</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=mongodb" width="28" height="28"/><br><sub>MongoDB</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=gcp" width="28" height="28"/><br><sub>GCP</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=tailwind" width="28" height="28"/><br><sub>Tailwind</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=electron" width="28" height="28"/><br><sub>Electron</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=linux" width="28" height="28"/><br><sub>Linux</sub></td>
   </tr>
 </table>
 
