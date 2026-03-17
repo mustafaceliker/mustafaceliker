@@ -55,34 +55,24 @@ Co-Founder & Head of Programming at **[Go Gamer](https://gogamer.com.tr/)** — 
 
 ---
 
-## GitHub Dashboard
+## GitHub Activity
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154502126" target="_blank" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="GitHub Dashboard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafaceliker&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
 
-<table>
-  <tr>
-    <td>
-      <a href="https://next.ossinsight.io/widgets/official/compose-user-contribution-time-distribution?user_id=154502126" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-contribution-time-distribution/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="373" height="auto">
-          <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/compose-user-contribution-time-distribution/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="373" height="auto">
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://next.ossinsight.io/widgets/official/compose-user-language-activity?user_id=154502126" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-language-activity/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="373" height="auto">
-          <img alt="Language Activity" src="https://next.ossinsight.io/widgets/official/compose-user-language-activity/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="373" height="auto">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafaceliker&theme=github_dark" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafaceliker&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafaceliker&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafaceliker&theme=github_dark" width="32%" />
+
+</div>
