@@ -61,16 +61,3 @@ Co-Founder & Head of Programming at **[Go Gamer](https://gogamer.com.tr/)** — 
 </table>
 
 </div>
-
----
-
-## GitHub Dashboard
-
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154502126" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=dark" width="660" height="auto">
-      <img alt="GitHub Dashboard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154502126&image_size=auto&color_scheme=light" width="660" height="auto">
-    </picture>
-  </a>
-</div>
